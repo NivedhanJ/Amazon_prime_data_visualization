@@ -33,4 +33,4 @@ Key insights in this Dashboard:
 🎉 My dashboard contains interactive elements that allow users to filter the data and explore different aspects of Amazon prime's data.
 
 
-![Final Dashboard](https://github.com/iamnithishwar/Amazon_prime_data_visualization/assets/108410047/9b251255-28f7-4bcf-8a13-287e4811f31f)
+![Final Dashboard](https://github.com/NivedhanJ/Amazon_prime_data_visualization/blob/main/Final%20Dashboard.png)
